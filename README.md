@@ -88,11 +88,13 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 ---
 
-## 🎵 Currently Playing
+## 🎵 Find Me on Spotify
 
 <div align="center">
 
-[![Spotify](https://novatorem-ngkapilreact.vercel.app/api/spotify)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qgb4z7qrl2mcvulefmcyg7nsau&count=3&unique=true)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
 
 </div>
 
