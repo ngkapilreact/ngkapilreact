@@ -68,7 +68,6 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://kapiladhikari.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/k4ps10ck/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ngkapilreact)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ngkapilreact)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngkapilreact@gmail.com)
 
@@ -88,13 +87,13 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 ---
 
-## 🎵 Find Me on Spotify
+## 🎵 Music & Vibes
 
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qgb4z7qrl2mcvulefmcyg7nsau&count=3&unique=true)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
+🎧 *Currently vibing to some good tunes while coding*
 
 </div>
 
