@@ -62,52 +62,6 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngkapilreact&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngkapilreact&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngkapilreact&theme=radical&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ngkapilreact&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Backend Class](https://github-readme-stats.vercel.app/api/pin/?username=ngkapilreact&repo=Backend-Class&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9)](https://github.com/ngkapilreact/Backend-Class)
-
-[![Shopify Theme Webpack](https://github-readme-stats.vercel.app/api/pin/?username=ngkapilreact&repo=shopify-theme-webpack-ready-boilerplate&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9)](https://github.com/ngkapilreact/shopify-theme-webpack-ready-boilerplate)
-
-</div>
-
----
-
-## 💻 Coding Activity
-
-<div align="center">
-
-![Kapil's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngkapilreact&theme=radical&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9)
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -122,21 +76,13 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 ---
 
-## 📈 Contribution Graph
+## 💭 Daily Dev Inspiration
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ngkapilreact&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FF6B6B)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.&author=Anonymous)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+[![Dynamic Dev Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=3000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80;eCommerce+solutions+that+scale+%F0%9F%9B%92;Turning+coffee+into+code+since+forever+%E2%98%95;Making+the+web+beautiful%2C+one+pixel+at+a+time+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -146,7 +92,7 @@ I'm a passionate **Shopify Expert & Full-Stack Developer** from Nepal 🇳🇵, 
 
 <div align="center">
 
-[![Spotify](https://novatorem-ngkapilreact.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-ngkapilreact.vercel.app/api/spotify)](https://open.spotify.com/user/31qgb4z7qrl2mcvulefmcyg7nsau)
 
 </div>
 
